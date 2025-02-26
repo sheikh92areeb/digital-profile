@@ -148,6 +148,8 @@ a {
 
 @media screen and (max-width: 990px) {
     .container {
+        width: 90vw;
+        height: 90vh;
         flex-direction: column;
     }
     .image-box, .content-box {
